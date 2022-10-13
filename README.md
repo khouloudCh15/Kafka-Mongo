@@ -164,7 +164,7 @@ To access Confuent Control Center and Visualize the Cluster as well as the archi
 ```
 localhost:9021
 ```
-Here are the verification its the clusters, its containers and the architecture is well existing:
+Here are the clusters, its containers and the architecture are well existing:
 ![](https://github.com/nadinelabidi/Ehealth-Kafka-Project/blob/main/Demo/topics.gif)
 
 
